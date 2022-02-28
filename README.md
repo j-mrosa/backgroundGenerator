@@ -1,2 +1,2 @@
 # backgroundGenerator
-Backgrounmd generator made using HTML, CSS and Javascript
+Backgrounmd generator built using HTML, CSS and Javascript
